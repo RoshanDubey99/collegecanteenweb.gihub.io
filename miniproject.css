@@ -1,0 +1,56 @@
+body {
+     background-color: rgb(132, 7, 123);
+     padding: 20px;
+
+}
+.h1 {
+    color: rgb(32, 32, 34);
+    text-shadow: 2px,2px,3px;
+    font-size: 100px;
+}
+.center {
+    margin-right: auto;
+    
+}
+table,th,td{
+    border: 1px,solid black;
+    padding: 10px;
+    border-collapse: collapse;
+    margin-left: auto;margin-right: auto;
+    font-size: 25px;
+ }
+.button {
+      background-color: rgb(183, 179, 62);
+      font-size: large;
+      width: 300px;
+          height: 60px;
+          border-radius: 25px;
+        align-items: center;
+        position: relative;margin-left: 600px;margin-top: 50px;
+
+}
+.difbut {
+    background-color: rgb(200, 99, 222);
+      font-size: large;
+      width: 300px;
+          height: 60px;
+          border-radius: 25px;
+        align-items: center;
+        position: relative;margin-left: 400px;margin-top: 50px;
+        cursor: pointer;
+        border: 2px solid black;
+}
+.difbut1 {
+    background-color: rgb(200, 99, 222);
+    font-size: large;
+    width: 300px;
+        height: 60px;
+        border-radius: 25px;
+      align-items: center;
+      position: relative;margin-left: 400px;margin-top: 50px;
+      cursor: pointer;
+      border: 2px solid black;
+}
+.butn {
+    
+}
