@@ -54,3 +54,8 @@ table,th,td{
 .butn {
     
 }
+footer{
+    position: relative;
+    left: 40%; right:25%; bottom : 100%;
+
+}
